@@ -4,6 +4,8 @@ description: 职场同事关系与领导关系处理技能。当用户需要处�
 agent_created: true
 ---
 
+下载地址：https://skillhub.cn/skills/user_e285fd2e/workplace-relations
+
 # Workplace Relations（职场同事关系处理）
 
 ## Overview
